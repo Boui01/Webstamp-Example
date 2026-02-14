@@ -1,8 +1,8 @@
 {
-  "Robinson-Login": {
+  "Robinson-login": {
     "primary": 1,
-    "name": "Robinson-Login",
-    "Robinson-Login/หน้ากรอกข้อมูลเข้าสู่ระบบ.png": {
+    "name": "Robinson-login",
+    "Robinson-login/หน้ากรอกข้อมูลเข้าสู่ระบบ.png": {
       "primary": 1,
       "th": "หน้ากรอกข้อมูล username และ password เพื่อเข้าสู่ระบบของ Web stamp ROBINSON สำหรับสมาชิก",
       "en": "Login page for entering username and password to access Web stamp ROBINSON for members"
@@ -41,7 +41,7 @@
       "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp ROBINSON สำหรับสมาชิก(หน้าจอโทรศัพท์)",
       "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members.(Mobile)"
     },
-    "Robinson-webstamp/หน้าแสดงรายละเอียดการจอด(Mobile)-ส่วนที่สอง.png": {
+    "Robinson-webstamp/หน้าแสดงรายละเอียดการจอด(Mobile)-ส่วนสอง.png": {
       "primary": 6,
       "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp ROBINSON สำหรับสมาชิก(หน้าจอโทรศัพท์)",
       "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members.(Mobile)"
@@ -51,7 +51,7 @@
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp ROBINSON สำหรับสมาชิก",
       "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members."
     },
-    "Robinson-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ-ส่วนที่สอง.png": {
+    "Robinson-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ-ส่วนสอง.png": {
       "primary": 8,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp ROBINSON สำหรับสมาชิก",
       "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members."
@@ -61,7 +61,7 @@
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp ROBINSON สำหรับสมาชิก(หน้าจอโทรศัพท์)",
       "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members.(Mobile)"
     },
-    "Robinson-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนที่สอง.png": {
+    "Robinson-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนสอง.png": {
       "primary": 10,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp ROBINSON สำหรับสมาชิก(หน้าจอโทรศัพท์)",
       "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members.(Mobile)"
@@ -104,6 +104,113 @@
       "primary": 6,
       "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web pay ROBINSON สำหรับสมาชิก",
       "en": "Display parking details to stamp parking for Web pay ROBINSON system for members."
+    }
+  },
+  "Bitec-login": {
+    "primary": 1,
+    "name": "Bitec-login",
+    "Bitec-login/หน้ากรอกข้อมูลเข้าสู่ระบบ.png": {
+      "primary": 1,
+      "th": "หน้ากรอกข้อมูล username และ password เพื่อเข้าสู่ระบบของ Web stamp Bitec สำหรับสมาชิก",
+      "en": "Login page for entering username and password to access Web stamp Bitec for members"
+    },
+    "Bitec-login/หน้ากำลังเข้าสู่ระบบ.png": {
+      "primary": 2,
+      "th": "หน้ากำลังเข้าสู่ระบบของ Web stamp Bitec สำหรับสมาชิก",
+      "en": "Loading page for Web stamp Bitec for members"
+    }
+  },
+  "Bitec-webstamp": {
+    "primary": 1,
+    "name": "Bitec-webstamp",
+    "Bitec-webstamp/หน้ากรอกเลขบัตรจอดรถ.png": {
+      "primary": 1,
+      "th": "หน้ากรอกเลขบัตรจอดรถของ Web stamp Bitec สำหรับสมาชิก",
+      "en": "Enter parking card number page for Web stamp Bitec for members"
+    },
+    "Bitec-webstamp/หน้ากรอกเลขทะเบียนรถ.png": {
+      "primary": 2,
+      "th": "หน้ากรอกเลขทะเบียนรถของ Web stamp Bitec สำหรับสมาชิก",
+      "en": "Enter vehicle registration number page for Web stamp Bitec for members"
+    },
+    "Bitec-webstamp/หน้าถ่ายแสกน QR code สำหรับบัตรจอดรถ.png": {
+      "primary": 3,
+      "th": "หน้าถ่ายแสกน QR code สำหรับบัตรจอดรถของ Web stamp Bitec สำหรับสมาชิก",
+      "en": "Scan QR code for parking card for Web stamp Bitec system for members."
+    },
+    "Bitec-webstamp/หน้าแสดงรายละเอียดการจอด.png": {
+      "primary": 4,
+      "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp Bitec สำหรับสมาชิก",
+      "en": "Display parking details to stamp parking for Web stamp Bitec system for members."
+    },
+    "Bitec-webstamp/หน้าแสดงรายละเอียดการจอด(Mobile)-ส่วนแรก.png": {
+      "primary": 5,
+      "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp Bitec สำหรับสมาชิก(หน้าจอโทรศัพท์)",
+      "en": "Display parking details to stamp parking for Web stamp Bitec system for members.(Mobile)"
+    },
+    "Bitec-webstamp/หน้าแสดงรายละเอียดการจอด(Mobile)-ส่วนสอง.png": {
+      "primary": 6,
+      "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp Bitec สำหรับสมาชิก(หน้าจอโทรศัพท์)",
+      "en": "Display parking details to stamp parking for Web stamp Bitec system for members.(Mobile)"
+    },
+    "Bitec-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ-ส่วนแรก.png": {
+      "primary": 7,
+      "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp Bitec สำหรับสมาชิก",
+      "en": "Display parking details to stamp parking for Web stamp Bitec system for members."
+    },
+    "Bitec-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ-ส่วนสอง.png": {
+      "primary": 8,
+      "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp Bitec สำหรับสมาชิก",
+      "en": "Display parking details to stamp parking for Web stamp Bitec system for members."
+    },
+    "Bitec-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนแรก.png": {
+      "primary": 9,
+      "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp Bitec สำหรับสมาชิก(หน้าจอโทรศัพท์)",
+      "en": "Display parking details to stamp parking for Web stamp Bitec system for members.(Mobile)"
+    },
+    "Bitec-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนสอง.png": {
+      "primary": 10,
+      "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp Bitec สำหรับสมาชิก(หน้าจอโทรศัพท์)",
+      "en": "Display parking details to stamp parking for Web stamp Bitec system for members.(Mobile)"
+    },
+    "Bitec-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนประวัติ.png": {
+      "primary": 11,
+      "th": "หน้าแสดงประวัติการจอดของ Web stamp Bitec สำหรับสมาชิก(หน้าจอโทรศัพท์)",
+      "en": "Display parking history for Web stamp Bitec system for members.(Mobile)"
+    }
+  },
+  "Bitec-webpay": {
+    "primary": 1,
+    "name": "Bitec-webpay",
+    "Bitec-webpay/หน้าสำหรับแสดงการค้นหาหน้า path ไม่เจอ.png": {
+      "primary": 1,
+      "th": "หน้าสำหรับแสดงการค้นหาหน้า path ไม่เจอของ Web pay Bitec",
+      "en": "Page for displaying search results when the path is not found for Web pay Bitec"
+    },
+    "Bitec-webpay/หน้าสำหรับแสดงข้อมูลการจอดและยอดชำระเงิน.png": {
+      "primary": 2,
+      "th": "หน้าสำหรับแสดงข้อมูลการจอดและยอดชำระเงินของ Web pay Bitec",
+      "en": "Page for displaying parking information and payment amount for Web pay Bitec"
+    },
+    "Bitec-webpay/หน้าแสดงรายละเอียดเพิ่มเติมเกี่ยวกับนโยบาย.png": {
+      "primary": 3,
+      "th": "หน้าแสดงรายละเอียดเพิ่มเติมเกี่ยวกับนโยบายของ Web pay Bitec",
+      "en": "Page for displaying additional information about the policy for Web pay Bitec"
+    },
+    "Bitec-webpay/หน้าแสดง QR code สำหรับสแกนชำระค่าจอดรถ.png": {
+      "primary": 4,
+      "th": "หน้าแสดง QR code สำหรับสแกนชำระค่าจอดรถของ Web pay Bitec",
+      "en": "Page for displaying QR code for scanning parking fee payment for Web pay Bitec"
+    },
+    "Bitec-webpay/หน้าแสดงใบเสร็จสำหรับการชำระค่าจอดรถ-ส่วนแรก.png": {
+      "primary": 5,
+      "th": "หน้าแสดงใบเสร็จสำหรับการชำระค่าจอดรถของ Web pay Bitec",
+      "en": "Page for displaying parking fee receipt for Web pay Bitec"
+    },
+    "Bitec-webpay/หน้าแสดงใบเสร็จสำหรับการชำระค่าจอดรถ-ส่วนสอง.png": {
+      "primary": 6,
+      "th": "หน้าแสดงใบเสร็จสำหรับการชำระค่าจอดรถของ Web pay Bitec (ส่วนนี้จะมีปุุ่มบันทึกข้อมูลใบเสร็จออกมาเป็น PDF)",
+      "en": "Page for displaying parking fee receipt for Web pay Bitec (This page has a button to save the receipt data as a PDF)"
     }
   }
 }
