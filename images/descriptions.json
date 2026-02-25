@@ -1,7 +1,7 @@
 {
   "Robinson-login": {
     "primary": 1,
-    "nameTH": "Robinson-login",
+    "nameTH": "หน้าเข้าสู่ระบบ Robinson",
     "nameEN": "Robinson-login",
     "Robinson-login/หน้ากรอกข้อมูลเข้าสู่ระบบ.png": {
       "primary": 1,
@@ -16,7 +16,7 @@
   },
   "Robinson-webstamp": {
     "primary": 1,
-    "nameTH": "Robinson-webstamp",
+    "nameTH": "ประทับตราจอดรถ Robinson",
     "nameEN": "Robinson-webstamp",
     "Robinson-webstamp/หน้ากรอกเลขบัตรจอดรถ.png": {
       "primary": 1,
@@ -76,7 +76,7 @@
   },
   "Bitec-login": {
     "primary": 1,
-    "nameTH": "Bitec-login",
+    "nameTH": "หน้าเข้าสู่ระบบ Bitec",
     "nameEN": "Bitec-login",
     "Bitec-login/หน้ากรอกข้อมูลเข้าสู่ระบบ.png": {
       "primary": 1,
@@ -91,7 +91,7 @@
   },
   "Bitec-webstamp": {
     "primary": 1,
-    "nameTH": "Bitec-webstamp",
+    "nameTH": "ประทับตราจอดรถ Bitec",
     "nameEN": "Bitec-webstamp",
     "Bitec-webstamp/หน้ากรอกเลขบัตรจอดรถ.png": {
       "primary": 1,
@@ -151,7 +151,7 @@
   },
   "Ture-digital-login": {
     "primary": 1,
-    "nameTH": "Ture-digital-login",
+    "nameTH": "หน้าเข้าสู่ระบบ True-digital",
     "nameEN": "Ture-digital-login",
     "Ture-digital-login/หน้ากรอกข้อมูลเข้าสู่ระบบ.png": {
       "primary": 1,
@@ -166,7 +166,7 @@
   },
   "True-digital-webstamp": {
     "primary": 1,
-    "nameTH": "True-digital-webstamp",
+    "nameTH": "ประทับตราจอดรถ True-digital",
     "nameEN": "True-digital-webstamp",
     "True-digital-webstamp/หน้ากรอกเลขบัตรจอดรถ.png": {
       "primary": 1,
