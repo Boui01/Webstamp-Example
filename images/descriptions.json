@@ -1,7 +1,8 @@
 {
   "Robinson-login": {
     "primary": 1,
-    "name": "Robinson-login",
+    "nameTH": "Robinson-login",
+    "nameEN": "Robinson-login",
     "Robinson-login/หน้ากรอกข้อมูลเข้าสู่ระบบ.png": {
       "primary": 1,
       "th": "หน้ากรอกข้อมูล username และ password เพื่อเข้าสู่ระบบของ Web stamp ROBINSON สำหรับสมาชิก",
@@ -10,71 +11,73 @@
     "Robinson-Login/หน้ากำลังเข้าสู่ระบบ.png": {
       "primary": 2,
       "th": "เป็นขั้นตอนกำลังเข้าสู่ระบบของ Web stamp ROBINSON สำหรับสมาชิก",
-      "en": "This is the process of logging into the ROBINSON Web Stamp system for members."
+      "en": "Logging in process for Web stamp ROBINSON for members"
     }
   },
   "Robinson-webstamp": {
     "primary": 1,
-    "name": "Robinson-webstamp",
+    "nameTH": "Robinson-webstamp",
+    "nameEN": "Robinson-webstamp",
     "Robinson-webstamp/หน้ากรอกเลขบัตรจอดรถ.png": {
       "primary": 1,
       "th": "หน้ากรอกเลขบัตรจอดรถเพื่อเข้าสู่ระบบของ Web stamp ROBINSON สำหรับสมาชิก",
-      "en": "Enter the parking card number to access the Web stamp ROBINSON system for members."
+      "en": "Enter parking card number page to access Web stamp ROBINSON for members"
     },
     "Robinson-webstamp/หน้ากรอกเลขทะเบียนรถ.png": {
       "primary": 2,
       "th": "หน้ากรอกเลขทะเบียนรถเพื่อเข้าสู่ระบบของ Web stamp ROBINSON สำหรับสมาชิก",
-      "en": "Enter the vehicle registration number to access the Web stamp ROBINSON system for members."
+      "en": "Enter vehicle registration number page to access Web stamp ROBINSON for members"
     },
     "Robinson-webstamp/หน้าถ่ายแสกน QR code สำหรับบัตรจอดรถ.png": {
       "primary": 3,
       "th": "หน้าถ่ายแสกน QR code สำหรับบัตรจอดรถของ Web stamp ROBINSON สำหรับสมาชิก",
-      "en": "Scan QR code for parking card for Web stamp ROBINSON system for members."
+      "en": "Scan QR code page for parking card for Web stamp ROBINSON for members"
     },
     "Robinson-webstamp/หน้าแสดงรายละเอียดการจอด.png": {
       "primary": 4,
       "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp ROBINSON สำหรับสมาชิก",
-      "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members."
+      "en": "Parking details page for stamping parking for Web stamp ROBINSON for members"
     },
     "Robinson-webstamp/หน้าแสดงรายละเอียดการจอด(Mobile)-ส่วนแรก.png": {
       "primary": 5,
       "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp ROBINSON สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members.(Mobile)"
+      "en": "Parking details page for stamping parking for Web stamp ROBINSON for members (Mobile)"
     },
     "Robinson-webstamp/หน้าแสดงรายละเอียดการจอด(Mobile)-ส่วนสอง.png": {
       "primary": 6,
       "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp ROBINSON สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members.(Mobile)"
+      "en": "Parking details page for stamping parking for Web stamp ROBINSON for members (Mobile)"
     },
     "Robinson-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ-ส่วนแรก.png": {
       "primary": 7,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp ROBINSON สำหรับสมาชิก",
-      "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members."
+      "en": "Parking details page for manual check for Web stamp ROBINSON for members"
     },
     "Robinson-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ-ส่วนสอง.png": {
       "primary": 8,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp ROBINSON สำหรับสมาชิก",
-      "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members."
+      "en": "Parking details page for manual check for Web stamp ROBINSON for members"
     },
     "Robinson-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนแรก.png": {
       "primary": 9,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp ROBINSON สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members.(Mobile)"
+      "en": "Parking details page for manual check for Web stamp ROBINSON for members (Mobile)"
     },
     "Robinson-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนสอง.png": {
       "primary": 10,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp ROBINSON สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking details to stamp parking for Web stamp ROBINSON system for members.(Mobile)"
+      "en": "Parking details page for manual check for Web stamp ROBINSON for members (Mobile)"
     },
     "Robinson-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนประวัติ.png": {
       "primary": 11,
       "th": "หน้าแสดงประวัติการจอดของ Web stamp ROBINSON สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking history for Web stamp ROBINSON system for members.(Mobile)"
+      "en": "Parking history page for Web stamp ROBINSON for members (Mobile)"
     }
   },
   "Bitec-login": {
     "primary": 1,
-    "name": "Bitec-login",
+    "nameTH": "Bitec-login",
+    "nameEN": "Bitec-login",
     "Bitec-login/หน้ากรอกข้อมูลเข้าสู่ระบบ.png": {
       "primary": 1,
       "th": "หน้ากรอกข้อมูล username และ password เพื่อเข้าสู่ระบบของ Web stamp Bitec สำหรับสมาชิก",
@@ -88,7 +91,8 @@
   },
   "Bitec-webstamp": {
     "primary": 1,
-    "name": "Bitec-webstamp",
+    "nameTH": "Bitec-webstamp",
+    "nameEN": "Bitec-webstamp",
     "Bitec-webstamp/หน้ากรอกเลขบัตรจอดรถ.png": {
       "primary": 1,
       "th": "หน้ากรอกเลขบัตรจอดรถของ Web stamp Bitec สำหรับสมาชิก",
@@ -102,66 +106,68 @@
     "Bitec-webstamp/หน้าถ่ายแสกน QR code สำหรับบัตรจอดรถ.png": {
       "primary": 3,
       "th": "หน้าถ่ายแสกน QR code สำหรับบัตรจอดรถของ Web stamp Bitec สำหรับสมาชิก",
-      "en": "Scan QR code for parking card for Web stamp Bitec system for members."
+      "en": "Scan QR code page for parking card for Web stamp Bitec for members"
     },
     "Bitec-webstamp/หน้าแสดงรายละเอียดการจอด.png": {
       "primary": 4,
       "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp Bitec สำหรับสมาชิก",
-      "en": "Display parking details to stamp parking for Web stamp Bitec system for members."
+      "en": "Parking details page for stamping parking for Web stamp Bitec for members"
     },
     "Bitec-webstamp/หน้าแสดงรายละเอียดการจอด(Mobile)-ส่วนแรก.png": {
       "primary": 5,
       "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp Bitec สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking details to stamp parking for Web stamp Bitec system for members.(Mobile)"
+      "en": "Parking details page for stamping parking for Web stamp Bitec for members (Mobile)"
     },
     "Bitec-webstamp/หน้าแสดงรายละเอียดการจอด(Mobile)-ส่วนสอง.png": {
       "primary": 6,
       "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp Bitec สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking details to stamp parking for Web stamp Bitec system for members.(Mobile)"
+      "en": "Parking details page for stamping parking for Web stamp Bitec for members (Mobile)"
     },
     "Bitec-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ-ส่วนแรก.png": {
       "primary": 7,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp Bitec สำหรับสมาชิก",
-      "en": "Display parking details to stamp parking for Web stamp Bitec system for members."
+      "en": "Parking details page for manual check for Web stamp Bitec for members"
     },
     "Bitec-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ-ส่วนสอง.png": {
       "primary": 8,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp Bitec สำหรับสมาชิก",
-      "en": "Display parking details to stamp parking for Web stamp Bitec system for members."
+      "en": "Parking details page for manual check for Web stamp Bitec for members"
     },
     "Bitec-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนแรก.png": {
       "primary": 9,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp Bitec สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking details to stamp parking for Web stamp Bitec system for members.(Mobile)"
+      "en": "Parking details page for manual check for Web stamp Bitec for members (Mobile)"
     },
     "Bitec-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนสอง.png": {
       "primary": 10,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp Bitec สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking details to stamp parking for Web stamp Bitec system for members.(Mobile)"
+      "en": "Parking details page for manual check for Web stamp Bitec for members (Mobile)"
     },
     "Bitec-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนประวัติ.png": {
       "primary": 11,
       "th": "หน้าแสดงประวัติการจอดของ Web stamp Bitec สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking history for Web stamp Bitec system for members.(Mobile)"
+      "en": "Parking history page for Web stamp Bitec for members (Mobile)"
     }
   },
   "Ture-digital-login": {
     "primary": 1,
-    "name": "Ture-digital-login",
+    "nameTH": "Ture-digital-login",
+    "nameEN": "Ture-digital-login",
     "Ture-digital-login/หน้ากรอกข้อมูลเข้าสู่ระบบ.png": {
       "primary": 1,
-      "th": "หน้ากรอกข้อมูล username และ password เพื่อเข้าสู่ระบบของ Web stamp ROBINSON สำหรับสมาชิก",
-      "en": "Login page for entering username and password to access Web stamp ROBINSON for members"
+      "th": "หน้ากรอกข้อมูล username และ password เพื่อเข้าสู่ระบบของ Web stamp True-digital สำหรับสมาชิก",
+      "en": "Login page for entering username and password to access Web stamp True-digital for members"
     },
     "Ture-digital-login/หน้ากำลังเข้าสู่ระบบ.png": {
       "primary": 2,
-      "th": "เป็นขั้นตอนกำลังเข้าสู่ระบบของ Web stamp ROBINSON สำหรับสมาชิก",
-      "en": "This is the process of logging into the ROBINSON Web Stamp system for members."
+      "th": "เป็นขั้นตอนกำลังเข้าสู่ระบบของ Web stamp True-digital สำหรับสมาชิก",
+      "en": "Logging in process for Web stamp True-digital for members"
     }
   },
   "True-digital-webstamp": {
     "primary": 1,
-    "name": "True-digital-webstamp",
+    "nameTH": "True-digital-webstamp",
+    "nameEN": "True-digital-webstamp",
     "True-digital-webstamp/หน้ากรอกเลขบัตรจอดรถ.png": {
       "primary": 1,
       "th": "หน้ากรอกเลขบัตรจอดรถของ Web stamp True-digital สำหรับสมาชิก",
@@ -175,47 +181,47 @@
     "True-digital-webstamp/หน้าถ่ายแสกน QR code สำหรับบัตรจอดรถ.png": {
       "primary": 3,
       "th": "หน้าถ่ายแสกน QR code สำหรับบัตรจอดรถของ Web stamp True-digital สำหรับสมาชิก",
-      "en": "Scan QR code for parking card for Web stamp True-digital system for members."
+      "en": "Scan QR code page for parking card for Web stamp True-digital for members"
     },
     "True-digital-webstamp/หน้าแสดงรายละเอียดการจอด.png": {
       "primary": 4,
       "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp True-digital สำหรับสมาชิก",
-      "en": "Display parking details to stamp parking for Web stamp True-digital system for members."
+      "en": "Parking details page for stamping parking for Web stamp True-digital for members"
     },
     "True-digital-webstamp/หน้าแสดงรายละเอียดการจอด(Mobile)-ส่วนแรก.png": {
       "primary": 5,
       "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp True-digital สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking details to stamp parking for Web stamp True-digital system for members.(Mobile)"
+      "en": "Parking details page for stamping parking for Web stamp True-digital for members (Mobile)"
     },
     "True-digital-webstamp/หน้าแสดงรายละเอียดการจอด(Mobile)-ส่วนสอง.png": {
       "primary": 6,
       "th": "หน้าแสดงรายละเอียดการจอดเพื่อประทับตราจอดรถของ Web stamp True-digital สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking details to stamp parking for Web stamp True-digital system for members.(Mobile)"
+      "en": "Parking details page for stamping parking for Web stamp True-digital for members (Mobile)"
     },
     "True-digital-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ-ส่วนแรก.png": {
       "primary": 7,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp True-digital สำหรับสมาชิก",
-      "en": "Display parking details to stamp parking for Web stamp True-digital system for members."
+      "en": "Parking details page for manual check for Web stamp True-digital for members"
     },
     "True-digital-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ-ส่วนสอง.png": {
       "primary": 8,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp True-digital สำหรับสมาชิก",
-      "en": "Display parking details to stamp parking for Web stamp True-digital system for members."
+      "en": "Parking details page for manual check for Web stamp True-digital for members"
     },
     "True-digital-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนแรก.png": {
       "primary": 9,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp True-digital สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking details to stamp parking for Web stamp True-digital system for members.(Mobile)"
+      "en": "Parking details page for manual check for Web stamp True-digital for members (Mobile)"
     },
     "True-digital-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนสอง.png": {
       "primary": 10,
       "th": "หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบของ Web stamp True-digital สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking details to stamp parking for Web stamp True-digital system for members.(Mobile)"
+      "en": "Parking details page for manual check for Web stamp True-digital for members (Mobile)"
     },
     "True-digital-webstamp/หน้าแสดงรายละเอียดการจอดแบบกดตรวจสอบ(Mobile)-ส่วนประวัติ.png": {
       "primary": 11,
       "th": "หน้าแสดงประวัติการจอดของ Web stamp True-digital สำหรับสมาชิก(หน้าจอโทรศัพท์)",
-      "en": "Display parking history for Web stamp True-digital system for members.(Mobile)"
+      "en": "Parking history page for Web stamp True-digital for members (Mobile)"
     }
   }
 }
